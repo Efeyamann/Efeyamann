@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm studying to be a Software Engineer<br>Learner at 42 Istanbul <br>Currently working on Born2beRoot<br><br>
+I'm studying to be a Software Engineer<br>Learner at 42 Istanbul <br>Currently working on push_swap<br><br>
 
 
 # 💻 Tech Stack:
