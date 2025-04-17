@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm studying to be a Software Engineer<br>Learner at 42 Istanbul <br>Currently working on so_long<br><br>
+I'm studying to be a Software Engineer<br>Learner at 42 Istanbul <br>Currently working on pipex<br><br>
 
 
 # 💻 Tech Stack:
