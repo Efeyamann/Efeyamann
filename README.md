@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm studying to be a Software Engineer<br>Learner at 42 Istanbul <br>Currently working on minishell<br><br>
+I'm studying to be a Software Engineer<br>Cadet at 42 Istanbul <br>Currently working on minishell<br><br>
 
 
 # 💻 Tech Stack:
