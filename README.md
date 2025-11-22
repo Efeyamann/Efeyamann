@@ -1,4 +1,5 @@
-![](https://hits.seeyounexttime.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEfeyamann&count_bg=%2379C&title_bg=%23555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)
+### 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=Efeyamann&color=blue&style=flat-square)
 
 ## Hi there 👋
 # 💫 About Me:
