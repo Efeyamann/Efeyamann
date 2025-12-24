@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Efeyamann&color=blue&style=flat-square)
 ## Hi there 👋
 # 💫 About Me:
 I'm studying to be a **Software Engineer**<br>Cadet at 42 Istanbul <br>Currently working on **minishell**<br><br>
