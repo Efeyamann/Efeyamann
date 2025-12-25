@@ -10,7 +10,7 @@ I'm studying to be a **Software Engineer**<br>Cadet at 42 Istanbul <br>
 # 📊 GitHub Stats:
 ![Efeyamann's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Efeyamann&theme=tokyonight&show_icons=true)
 
-![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=Efeyamann&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Efeyamann&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Efeyamann&theme=tokyonight&layout=compact)
 
